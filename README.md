@@ -8,8 +8,8 @@ A detailed explanation is available at medium article;
 
 Language | Link
 ------------- | -------------
-TR  | [TR-Developing Calorie Tracker App using Huawei Health Kit](https://medium.com/huawei-developers-tr/huawei-health-kit-ile-kalori-takip-uygulamas%C4%B1-geli%C5%9Ftirme-de0fb9880910)
-EN  | In Progress 
+TR  | [TR-Developing Calorie Tracker App with Huawei Health Kit](https://medium.com/huawei-developers-tr/huawei-health-kit-ile-kalori-takip-uygulamas%C4%B1-geli%C5%9Ftirme-de0fb9880910)
+EN  | [EN-Developing Calorie Tracker App with Huawei Health Kit](https://medium.com/huawei-developers/developing-calorie-tracker-app-with-huawei-health-kit-37345ee4271c) 
 
 
 ## Screenshots
